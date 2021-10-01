@@ -1,0 +1,5 @@
+Document_ID,C_Charge_ID,M_Product_ID,QtyEntered,PriceEntered,C_UOM_ID,C_Tax_ID
+1000,720100 - Salary,,10,1000000,Each,VAT
+1001,720100 - Salary,,10,1000000,Each,VAT
+1002,730400 - Repair & Maintenance,,1,1000000,Each,VAT
+1003,Repair & Maintenance,,1,1000000,Each,VAT

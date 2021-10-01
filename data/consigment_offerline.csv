@@ -1,0 +1,5 @@
+Document_ID,M_Product_ID,M_Locator_ID,M_LocatorTo_ID,Qty,C_UOM_ID
+1000,HANDPHONE,Loc_Automation,PT Berca Hardayaperkasa,4,Each
+1000,ADAPTOR_LOT16,Loc_Automation,PT Berca Hardayaperkasa,4,Each
+1001,HANDPHONE,Loc_Automation,PT Berca Hardayaperkasa,3,Each
+1001,ADAPTOR_LOT16,Loc_Automation,PT Berca Hardayaperkasa,3,Each

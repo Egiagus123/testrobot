@@ -1,0 +1,2 @@
+Document_ID,AD_Org_ID,C_DocType_ID,A_Asset_ID,A_SourceType,C_Charge_ID,AssetAmtEntered,A_Salvage_Value,A_QTY_Current
+1000,Test Framework,Fixed Assets Addition,Asset_Robot_IT,Manual,Salary TKA,1000000,2000000,1

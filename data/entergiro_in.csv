@@ -1,0 +1,6 @@
+Document_ID,AD_Org_ID,C_DocType_ID,C_BankAccount_ID,C_BPartner_ID,CheckNo,PayAmt,AD_OrgTrx_ID,User1_ID
+1000,Test Framework,Cash Basis (In),0018-01-000143-30-4_BRI_ .,AUTOMATION_COBA,F-1234ABCD,100000,T-Test 1-test 1,Distribution-Distribution
+1001,Test Framework,Cash Basis (In),0018-01-000143-30-6_BRI_ .,AUTOMATION_COBA,F-3234ABCD,100000,T-Test 1-test 1,Distribution-Distribution
+1002,Test Framework,Accrual Basis (In),0018-01-000143-30-4_BRI_ .,AUTOMATION_COBA,BR011115,100000,T-Test 1-test 1,Distribution-Distribution
+1003,Test Framework,Accrual Basis (In),0018-01-000143-30-4_BRI_ .,AUTOMATION_COBA,BR122224,100000,T-Test 1-test 1,Distribution-Distribution
+1004,Test Framework,Accrual Basis (In),0018-01-000143-30-4_BRI_ .,AUTOMATION_COBA,BR233334,100000,T-Test 1-test 1,Distribution-Distribution

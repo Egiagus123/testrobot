@@ -1,0 +1,2 @@
+Document_ID,AD_Org_ID,Name,C_DocType_ID,C_BPartner_ID,SalesRep_ID,M_PriceList_ID,M_Warehouse_ID,M_RMAType_ID,AD_OrgTrx_ID,User1_ID
+1000,Test Framework,Test Robot,Vendor Return Material,Automation_RobotFramework,Egi,Purchase IDR,WH DEMO / BACKUP,Return,T-Test 1-test 1,Distribution-Distribution

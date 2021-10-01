@@ -1,0 +1,7 @@
+Document_ID,AD_Org_ID,Meter_Type
+1000,Test Framework,Fuel Meter
+1001,Test Framework,Hour Meter
+1002,Test Framework,Meter 4
+1003,Test Framework,Meter 5
+1004,Test Framework,Meter 6
+1005,Test Framework,Odometer

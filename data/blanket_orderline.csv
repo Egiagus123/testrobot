@@ -1,0 +1,3 @@
+Document_ID,M_Product_ID,C_UOM_ID,QtyEntered,C_UOM_ID
+1000,TF_ROBOT_AC,Each,3,Each
+1001,TF_ROBOT_AC,,5,Each

@@ -1,0 +1,15 @@
+Document_ID,M_Locator_ID,M_Product_ID,M_AttributeSetInstance_ID,QtyCount,InventoryType
+1000,PT SERBA BISA,TF_ROBOT_AC,,100,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_Earpone,,100,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_Proyektor,,100,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_COS_CL_ATTGD,,100,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_COS_CL_ATTLOTGD,I#EGl8I1234##,1,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_COS_CL_ATTLOTSN,I#EGILOT#EGISN#,1,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_COS_CL_ATTSN,I#lot123#sn123#,1,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_PAPER,,100,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_COSBOTOL_NEW,,100,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_Mouse,,100,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_Kabel,,100,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_Susu,,100,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_KopiTorabika,,100,Inventory Difference
+1000,PT SERBA BISA,TF_ROBOT_Kopi_Susu,,100,Inventory Difference

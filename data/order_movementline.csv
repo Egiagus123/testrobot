@@ -1,0 +1,7 @@
+Document_ID,M_Product_ID,QtyEntered,C_UOM_ID,M_Locator_ID
+1000,TF_ROBOT_AC,4,Each,Intransit WH_AUTOMATION
+1000,TF_ROBOT_Earpone,4,Each,Intransit WH_AUTOMATION
+1001,TF_ROBOT_AC,3,Each,Intransit WH_AUTOMATION
+1001,TF_ROBOT_Earpone,3,Each,Intransit WH_AUTOMATION
+1002,TF_AC,3,Each,Intransit Semarang
+1003,TF_AC,1,Lusin,Intransit Semarang

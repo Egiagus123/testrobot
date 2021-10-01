@@ -1,0 +1,7 @@
+Document_ID,AD_Org_ID,Line,BasePriceType
+1000,Test Framework,1,Product Category and Customer Group
+1001,Test Framework,2,Product Category and Customer
+1002,Test Framework,3,Product Category Only
+1003,Test Framework,4,Product and Customer Group
+1004,Test Framework,5,Product and Customer
+1005,Test Framework,6,Product Only

@@ -1,0 +1,6 @@
+Document_ID,AD_Org_ID,C_DocType_ID,C_BankAccount_ID,C_BPartner_ID,C_Charge_ID,PayAmt,AD_OrgTrx_ID,User1_ID,TenderType
+1000,Test Framework,AR Receipt,0018-01-000143-30-4_BRI_ .,Automation_RobotFramework,720100 - Salary,1000000,T-Test 1-test 1,Distribution-Distribution,Cash
+1001,Test Framework,AR Receipt,0018-01-000143-30-4_BRI_ .,Automation_RobotFramework,,0,T-Test 1-test 1,Distribution-Distribution,Cash
+1002,Test Framework,AR Receipt,0018-01-000143-30-6_BRI_ .,Automation_RobotFramework,720100 - Salary,100000,T-Test 1-test 1,Distribution-Distribution,Cash
+1003,Test Framework,AR Receipt,0018-01-000143-30-4_BRI_ .,Automation_RobotFramework,720100 - Salary,0,T-Test 1-test 1,Distribution-Distribution,Cash
+1004,Test Framework2,AR Receipt,0018-01-000143-30-4_BRI_ .,Automation_RobotFramework,720100 - Salary,0,T-Test 1-test 1,Distribution-Distribution,Cash

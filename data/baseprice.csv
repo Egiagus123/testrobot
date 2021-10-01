@@ -1,0 +1,7 @@
+Document_ID,AD_Org_ID,BasePriceType,ValidFrom,ValidTo,PriceList,PriceStd,PriceLimit
+1000,Test Framework,Product Category and Customer Group,1/1/2021,12/30/2021,1500,1500,1500
+1001,Test Framework,Product Category and Customer,1/1/2021,12/30/2021,2000,2000,2000
+1002,Test Framework,Product Category Only,1/1/2021,12/30/2021,3000,3000,3000
+1003,Test Framework,Product and Customer Group,1/1/2021,12/30/2021,4000,4000,4000
+1004,Test Framework,Product and Customer,1/1/2021,12/30/2021,5000,5000,5000
+1005,Test Framework,Product Only,1/1/2021,12/30/2021,6000,6000,6000

@@ -1,0 +1,3 @@
+Document_ID,AD_Org_ID,C_DocType_ID,AD_User_ID,DateRequired,DateDoc,PriorityRule,M_Warehouse_ID,M_PriceList_ID,AD_OrgTrx_ID,User1_ID
+1000,Test Framework,Purchase Requisition,Egi,7/2/2020,7/2/2020,Medium,WH DEMO / BACKUP,Purchase IDR,T-Test 4-Test 4,Distribution-Distribution
+1001,Test Framework,Purchase Requisition,Egi,7/2/2020,7/2/2020,Medium,WH DEMO / BACKUP,Purchase IDR,T-Test 4-Test 4,Distribution-Distribution

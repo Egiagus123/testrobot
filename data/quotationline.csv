@@ -1,0 +1,6 @@
+Document_ID,M_Product_ID,C_Charge_ID,QtyEntered,C_UOM_ID
+1000,TF_AC,,5,Each
+1001,P_ROBOT03,,5,Each
+1002,,510010 Sales Service Acer,1,Each
+1003,TF_ROBOT_Proyektor,,5,Each
+1004,TF_ROBOT_AC,,3,Each

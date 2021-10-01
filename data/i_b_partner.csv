@@ -1,0 +1,2 @@
+Document_ID,AD_Org_ID,Value,Name,C_BP_Group_ID,SOCreditStatus,IsCustomer,IsVendor
+1000,Test Framework,Automation_RobotFramework,Automation_RobotFramework,CUSTOMER STANDARD,No Credit Check,Y,Y

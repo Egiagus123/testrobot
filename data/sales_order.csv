@@ -1,0 +1,7 @@
+Document_ID,AD_Org_ID,C_DocTypeTarget_ID,C_BPartner_ID,AD_User_ID,DeliveryRule,M_Warehouse_ID,DeliveryViaRule,FreightCostRule,PriorityRule,M_PriceList_ID,SalesRep_ID,PaymentRule,C_PaymentTerm_ID,AD_OrgTrx_ID,User1_ID,IsDropShip
+1000,Test Framework,Standard Order,Automation_RobotFramework,Dimas,Availability,WH DEMO / BACKUP,Delivery,Freight included,Medium,Sales IDR,Egi,On Credit,Immediate,T-Test 1-test 1,Distribution-Distribution,
+1001,Test Framework2,Standard Order,Automation_RobotFramework,Dimas,Availability,SEMARANG,Delivery,Freight included,Medium,Sales IDR,Egi,On Credit,Immediate,T-Test 1-test 1,Distribution-Distribution,
+1002,Test Framework,POS Order,Automation_RobotFramework,Dimas,Availability,WH DEMO / BACKUP,Delivery,Freight included,Medium,Sales IDR,Egi,On Credit,Immediate,T-Test 1-test 1,Distribution-Distribution,Y
+1003,Test Framework,Standard Order,TF_BPA,,Availability,WH DEMO / BACKUP,Delivery,Freight included,Medium,TF_PLLA,Egi,On Credit,Immediate,T-Test 1-test 1,Distribution-Distribution,
+1004,Test Framework,Standard Order,TF_BPB,,Availability,WH DEMO / BACKUP,Delivery,Freight included,Medium,TF_PLLA,Egi,On Credit,Immediate,T-Test 1-test 1,Distribution-Distribution,
+1005,Test Framework,Standard Order,TF_BPC,,Availability,WH DEMO / BACKUP,Delivery,Freight included,Medium,TF_PLLA,Egi,On Credit,Immediate,T-Test 1-test 1,Distribution-Distribution,

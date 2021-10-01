@@ -1,0 +1,4 @@
+Document_ID,AD_Org_ID,C_BPartner_ID,SingleAssignment,DaySlot,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+1000,Test Framework,AUTOMATION_COBA,Y,Y,Y,Y,Y,Y,Y,N,N
+1001,Test Framework,AUTOMATION_COBA,N,Y,Y,Y,N,N,N,N,N
+1002,Test Framework,AUTOMATION_COBA,N,Y,Y,Y,Y,Y,N,N,N

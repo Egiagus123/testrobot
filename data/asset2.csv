@@ -1,0 +1,6 @@
+Document_ID,AD_Org_ID,Value,Name,A_Asset_Group_ID,M_Product_ID,ManufacturedYear
+1000,Test Framework,Asset_AC,Asset_AC,Vehicle SL,TF_AC,2020
+1001,Test Framework,Asset_Parabotan,Asset_Parabotan,Parabotan,TF_AC,2020
+1002,Test Framework2,Asset_Pangan,Asset_Pangan,Pangan,TF_AC,2020
+1003,Test Framework,Asset_Electronik,Asset_Electronik,Electronik,TF_AC,2020
+1004,Test Framework2,Asset_ElectronikNew,Asset_ElectronikNew,Electronik,TF_AC,2020

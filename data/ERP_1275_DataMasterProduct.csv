@@ -1,0 +1,6 @@
+Document_ID,AD_Org_ID,Value,Name,M_Product_Category_ID,C_TaxCategory_ID,C_UOM_ID,ProductType
+1000,Test Framework,P_ROBOT01,Prod_Asset,Standard,VAT,Each,Asset
+1001,Test Framework,P_ROBOT02,Prod_Expense type,Standard,VAT,Each,Expense type
+1002,Test Framework,P_ROBOT03,Prod_Item,Standard,VAT,Each,Item
+1003,Test Framework,P_ROBOT04,Prod_Resource,Standard,VAT,Each,Resource
+1004,Test Framework,P_ROBOT05,Prod_Service,Standard,VAT,Each,Service

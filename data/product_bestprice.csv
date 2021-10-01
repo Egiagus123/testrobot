@@ -1,0 +1,6 @@
+Document_ID,AD_Org_ID,Value,Name,M_Product_Category_ID,C_TaxCategory_ID,C_UOM_ID,IsStocked,ProductType
+1000,Test Framework,TF_AP,TF_AP,TF_A,VAT,Each,Y,Item
+1001,Test Framework,TF_AB,TF_AB,TF_B,VAT,Each,Y,Item
+1002,Test Framework,TF_AD,TF_AD,STANDARD,VAT,Each,Y,Item
+1003,Test Framework,TF_AE,TF_AE,STANDARD,VAT,Each,Y,Item
+1004,Test Framework,TF_AF,TF_AF,STANDARD,VAT,Each,Y,Item

@@ -1,0 +1,15 @@
+Document_ID,AD_Org_ID,Value,Name,M_Product_Category_ID,C_TaxCategory_ID,C_UOM_ID,ProductType,IsBOM,M_AttributeSet_ID
+1000,Test Framework,TF_ROBOT_AC,TF_ROBOT_AC,Standard,VAT,Each,Item,,
+1001,Test Framework,TF_ROBOT_Earpone,TF_ROBOT_Earpone,Standard,VAT,Each,Item,,
+1002,Test Framework,TF_ROBOT_Proyektor,TF_ROBOT_Proyektor,Standard,VAT,Each,Item,,
+1003,Test Framework,TF_ROBOT_COS_CL_ATTGD,TF_ROBOT_COS_CL_ATTGD,Standard,VAT,Each,Item,,GD
+1004,Test Framework,TF_ROBOT_COS_CL_ATTLOTGD,TF_ROBOT_COS_CL_ATTLOTGD,Standard,VAT,Each,Item,,GD LOT
+1005,Test Framework,TF_ROBOT_COS_CL_ATTLOTSN,TF_ROBOT_COS_CL_ATTLOTSN,Standard,VAT,Each,Item,,GD LOT SN
+1006,Test Framework,TF_ROBOT_COS_CL_ATTSN,TF_ROBOT_COS_CL_ATTSN,Standard,VAT,Each,Item,,GD SN
+1011,Test Framework,TF_ROBOT_PAPER,TF_ROBOT_PAPER,Standard,VAT,Each,Item,,
+1012,Test Framework,TF_ROBOT_Mouse,TF_ROBOT_Mouse,Standard,VAT,Each,Item,,
+1013,Test Framework,TF_ROBOT_Kabel,TF_ROBOT_Kabel,Standard,VAT,Each,Item,,
+1010,Test Framework,TF_ROBOT_COSBOTOL_NEW,TF_ROBOT_COSBOTOL_NEW,Standard,VAT,Each,Item,,GD LOT
+1007,Test Framework,TF_ROBOT_Susu,TF_ROBOT_Susu,Standard,VAT,Each,Item,,
+1008,Test Framework,TF_ROBOT_KopiTorabika,TF_ROBOT_KopiTorabika,Standard,VAT,Each,Item,,
+1009,Test Framework,TF_ROBOT_Kopi_Susu,TF_ROBOT_Kopi_Susu,Standard,VAT,Each,Item,Y,

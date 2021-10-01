@@ -1,0 +1,8 @@
+Document_ID,M_Product_ID,C_Charge_ID,QtyEntered,PriceEntered,Description
+1000,,710200-Tender,10,1000,
+1001,TF_ROBOT_Proyektor,,5,1000,
+1002,TF_ROBOT_AC,,10,1000,
+1000,,710300-Training,10,1000,
+1003,TF_ROBOT_AC,,10,1000,
+1004,TF_ROBOT_AC,,24,1000,
+1005,,,1,1000,Test Robot

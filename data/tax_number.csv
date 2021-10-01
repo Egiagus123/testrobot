@@ -1,0 +1,4 @@
+Document_ID,AD_Org_ID,Description,TaxNumberType
+1000,Test Framework,Test,VAT IN
+1001,Test Framework,Test,VAT OUT
+1002,Test Framework,Test,WITHHOLDING TAX

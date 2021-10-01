@@ -1,0 +1,2 @@
+Document_ID,AD_Org_ID,C_DocTypeTarget_ID,C_BPartner_ID,AD_User_ID,C_BPartner_Location_ID,SalesRep_ID,M_PriceList_ID,PaymentRule,AD_OrgTrx_ID,User1_ID
+1000,Test Framework,AR Invoice Asset,Automation_RobotFramework,Dimas,jakarta Timur,Egi,Sales IDR,On Credit,T-Test 1-test 1,Distribution-Distribution

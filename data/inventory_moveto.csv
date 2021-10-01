@@ -1,0 +1,2 @@
+Document_ID,AD_Org_ID,C_DocType_ID,M_Shipper_ID,DeliveryViaRule,PriorityRule,DeliveryRule,M_Warehouse_ID,M_WarehouseTo_ID,AD_OrgTrx_ID,User1_ID
+1000,Test Framework,Material Movement,JNE,Delivery,Medium,After Receipt,Intransit,WH DEMO / BACKUP,T-Test 1-test 1,Distribution-Distribution
