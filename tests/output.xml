@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot rpa="false" generated="20210929 08:49:34.277" generator="Robot 3.1.2 (Python 2.7.11 on win32)">
+<suite source="D:\Idempiere\Workspace\robot\bhp.robot\Test\tests\01.import" id="s1" name="01.Import">
+<suite source="D:\Idempiere\Workspace\robot\bhp.robot\Test\tests\01.import\Import.robot" id="s1-s1" name="Import">
+<kw type="setup" name="Login As Admin" library="login">
+<kw name="Login" library="login">
+<arguments>
+<arg>username=${ADMIN.USERNAME}</arg>
+<arg>password=${ADMIN.PASSWORD}</arg>
+</arguments>
+<kw name="Element Should Exists" library="selenium_adapter">
+<arguments>
+<arg>css:.login-window</arg>
+</arguments>
+<kw name="Wait Loading End" library="selenium_adapter">
+<kw name="Wait Until Page Does Not Contain Element" library="SeleniumLibrary">
+<doc>Waits until element ``locator`` disappears from current page.</doc>
+<arguments>
+<arg>${LOADING_SELECTOR}</arg>
+</arguments>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes screenshot of the current page and embeds it into log file.</doc>
+<msg timestamp="20210929 08:49:34.831" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<status status="PASS" endtime="20210929 08:49:34.831" starttime="20210929 08:49:34.831"></status>
+</kw>
+<msg timestamp="20210929 08:49:34.847" level="FAIL">No browser is open.</msg>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.831"></status>
+</kw>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.831"></status>
+</kw>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.831"></status>
+</kw>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.831"></status>
+</kw>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.831"></status>
+</kw>
+<test id="s1-s1-t1" name="Create Import Data">
+<doc>Create Import Data</doc>
+<tags>
+<tag>Business Partner</tag>
+<tag>ERP</tag>
+</tags>
+<status status="FAIL" endtime="20210929 08:49:34.847" critical="yes" starttime="20210929 08:49:34.847">Parent suite setup failed:
+No browser is open.</status>
+</test>
+<kw type="teardown" name="Logout" library="logout">
+<kw name="Click User" library="selenium_adapter">
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<doc>Waits until element ``locator`` is visible.</doc>
+<arguments>
+<arg>Xpath=(//span[@class="z-menu-text"])[1]</arg>
+<arg>timeout=15</arg>
+</arguments>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes screenshot of the current page and embeds it into log file.</doc>
+<msg timestamp="20210929 08:49:34.847" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<status status="PASS" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.847"></status>
+</kw>
+<msg timestamp="20210929 08:49:34.847" level="FAIL">No browser is open.</msg>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.847"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>Xpath=(//span[@class="z-menu-text"])[1]</arg>
+</arguments>
+<msg timestamp="20210929 08:49:34.847" level="INFO">Clicking element 'Xpath=(//span[@class="z-menu-text"])[1]'.</msg>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes screenshot of the current page and embeds it into log file.</doc>
+<msg timestamp="20210929 08:49:34.847" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<status status="PASS" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.847"></status>
+</kw>
+<msg timestamp="20210929 08:49:34.847" level="FAIL">No browser is open.</msg>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.847"></status>
+</kw>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.847"></status>
+</kw>
+<kw name="Click Log Out" library="selenium_adapter">
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<doc>Waits until element ``locator`` is visible.</doc>
+<arguments>
+<arg>sizzle=.z-menuitem-text:contains("Log Out")</arg>
+<arg>timeout=15</arg>
+</arguments>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes screenshot of the current page and embeds it into log file.</doc>
+<msg timestamp="20210929 08:49:34.847" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<status status="PASS" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.847"></status>
+</kw>
+<msg timestamp="20210929 08:49:34.847" level="FAIL">No browser is open.</msg>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.847"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>sizzle=.z-menuitem-text:contains("Log Out")</arg>
+</arguments>
+<msg timestamp="20210929 08:49:34.847" level="INFO">Clicking element 'sizzle=.z-menuitem-text:contains("Log Out")'.</msg>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes screenshot of the current page and embeds it into log file.</doc>
+<msg timestamp="20210929 08:49:34.847" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<status status="PASS" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.847"></status>
+</kw>
+<msg timestamp="20210929 08:49:34.847" level="FAIL">No browser is open.</msg>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.847"></status>
+</kw>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.847"></status>
+</kw>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.847">Several failures occurred:
+
+1) No browser is open.
+
+2) No browser is open.
+
+3) No browser is open.
+
+4) No browser is open.</status>
+</kw>
+<status status="FAIL" endtime="20210929 08:49:34.847" starttime="20210929 08:49:34.310">Suite setup failed:
+No browser is open.
+
+Also suite teardown failed:
+Several failures occurred:
+
+1) No browser is open.
+
+2) No browser is open.
+
+3) No browser is open.
+
+4) No browser is open.</status>
+</suite>
+<status status="FAIL" endtime="20210929 08:49:34.862" starttime="20210929 08:49:34.277"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="1" pass="0">Critical Tests</stat>
+<stat fail="1" pass="0">All Tests</stat>
+</total>
+<tag>
+<stat fail="1" pass="0">Business Partner</stat>
+<stat fail="1" pass="0">ERP</stat>
+</tag>
+<suite>
+<stat fail="1" id="s1" name="01.Import" pass="0">01.Import</stat>
+<stat fail="1" id="s1-s1" name="Import" pass="0">01.Import.Import</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
